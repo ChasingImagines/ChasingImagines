@@ -1,18 +1,18 @@
 # 👋 Merhaba, ben Yasin Öztürk
 
-🎮 **Unity oyun geliştiricisi**  
-🎓 Uludağ Üniversitesi Bilgisayar Programcılığı mezunu | Kahramanmaraş İstiklal Üniversitesi Dijital Oyun Tasarımı öğrencisi  
+🎮 **Unity oyun geliştiricisi**
+🎓 Uludağ Üniversitesi Bilgisayar Programcılığı mezunu | Kahramanmaraş İstiklal Üniversitesi Dijital Oyun Tasarımı öğrencisi
 
 ---
 
 ## 🚀 Oyun Projelerim
 
-- 🕒 [**Time Wasteful**](https://chasing-imagined.itch.io/time-wasteful) — Brackeys Game Jam 2025.2  
-- ⚖️ [**Plank Ball**](https://chasing-an-imagine.itch.io/plankball) — ULUJAM  
-- 🌾 [**Last Harvest**](https://chasing-imagined.itch.io/last-harvest) — Ankara Game Jam 2025  
-- ⏫ [**TimeJump**](https://chasing-an-imagine.itch.io/timejump) — prototip speedrun platformer  
+- 🕒 [**Time Wasteful**](https://chasing-imagined.itch.io/time-wasteful) — Brackeys Game Jam 2025.2
+- ⚖️ [**Plank Ball**](https://chasing-an-imagine.itch.io/plankball) — ULUJAM
+- 🌾 [**Last Harvest**](https://chasing-imagined.itch.io/last-harvest) — Ankara Game Jam 2025
+- ⏫ [**TimeJump**](https://chasing-an-imagine.itch.io/timejump) — prototip speedrun platformer
 
-🎮 Daha fazla oyun için → [itch.io sayfam](https://chasing-imagined.itch.io/)  
+🎮 Daha fazla oyun için → [itch.io sayfam](https://chasing-imagined.itch.io/)
 
 ---
 
@@ -29,7 +29,7 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasingImagines&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasingImagines&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cginc" height="150"/>
   <img src="https://streak-stats.demolab.com?user=ChasingImagines&theme=tokyonight" height="150"/>
 </p>
 
