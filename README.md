@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasingImagines&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cginc" height="150"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=ChasingImagines&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=ChasingImagines&theme=tokyonight" height="150"/>
 </p>
 
 ---
