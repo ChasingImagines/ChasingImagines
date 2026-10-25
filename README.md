@@ -1,4 +1,3 @@
-
 # 👋 Merhaba, ben Yasin Öztürk
 
 🎮 **Unity Oyun Geliştiricisi** 🎓 Uludağ Üniversitesi Bilgisayar Programcılığı Mezunu | Kahramanmaraş Sütçü İmam Üniversitesi Dijital Oyun Tasarımı Öğrencisi
@@ -12,17 +11,26 @@
 
 ---
 
-## 📱 Mobil Projeler
+## 📱 Öne Çıkan Mobil Proje
 
-- 🚜 [**Supply Chain Farming Tycoon**](https://play.google.com/store/apps/details?id=com.refinefeel.supply_chain_farming_tycoon) — **Google Play (Arcade Idle / Tycoon)**  
-  *Dijital Oyun Geliştirme Projesi I dersi kapsamında 2 kişilik ekiple geliştirilip yayınlanan mobil oyun.*
+### 🚜 [Supply Chain Farming Tycoon](https://play.google.com/store/apps/details?id=com.refinefeel.supply_chain_farming_tycoon) — *Google Play (Arcade Idle / Tycoon)*
+**Dijital Oyun Geliştirme Projesi I** dersi kapsamında (Danışman: Öğr. Gör. Hamza AYDEMİR), ekip arkadaşım Ece Sena Çetin ile sıfırdan yayın aşamasına kadar geliştirdiğimiz mobil tycoon oyunu.
+
+- 📐 **Tasarım & Prototipleme:** Süreç kapsamlı bir **Oyun Tasarım Dokümanı (GDD)** ve üretim zincirinin önceden simüle edildiği **Kağıt Prototip** çalışmalarıyla kurgulandı. Sistem, her geliştirmenin yeni bir **"Kritik Darboğaz" (Bottleneck)** yarattığı dinamik bir ilerleme üzerine inşa edildi.
+- ⚙️ **Mekanik Tasarımı:** Kaynak türüne göre özelleşen **DPS vs HP modeli** Unity üzerinde modellenerek hasat etkileşimleri optimize edildi.
+- ⚡ **Performans & Optimizasyon:** Mobil performansı korumak adına **Mesafe Tabanlı Birleşme (Merge)** algoritması ve 20'li paketlerden oluşan **Batching** lojistik taşıma altyapısı uygulandı.
+- ⏱️ **Proje Yönetimi:** 14 haftalık **Gantt Şeması** ve **Trello** üzerinden Agile/Sprint prensipleriyle uçtan uca süreç takibi.
+- 🔗 **Geliştirme Bağlantıları & Medya:** 
+  - [Google Play'den İndir](https://play.google.com/store/apps/details?id=com.refinefeel.supply_chain_farming_tycoon)
+  - [Oynanış Shorts](https://youtube.com/shorts/OZ4zkUF5LIs)
+  - [LinkedIn Vize Devlog Paylaşımı](https://lnkd.in/p/dhHPiPuP)
 
 ---
 
-## 🚀 Game Jam & Bağımsız Oyun Projelerim
+## 🚀 Bağımsız Oyunlar & Game Jam Projelerim
 
 - 🏙️ [**Building Feature**](https://chasing-imagines.itch.io/building-feature) — 🏆 Kahramanmaraş Teknokent Kuluçka Ödülü | Kart Tabanlı Şehir Kurma Simülasyonu
-- 🐟 [**Mutant Fish Hunter**](https://chasing-imagines.itch.io/mutant-fish-hunter) — 🥉 HKU Game Jam 3.sü | Zıpkın Mekanikli Roguelite / Upgrade Loop
+- 🐟 [**Mutant Fish Hunter**](https://chasing-imagines.itch.io/mutant-fish-hunter) — 🥉 HKU Game Jam 3.sü (Solo) | Zıpkın Mekaniği, Oksijen/Dalış Döngüsü & Upgrade Loop
 - 🕒 [**Time Wasteful**](https://chasing-imagined.itch.io/time-wasteful) — Brackeys Game Jam 2025.2
 - ⚖️ [**Plank Ball**](https://chasing-an-imagine.itch.io/plankball) — ULUJAM
 - 🌾 [**Last Harvest**](https://chasing-imagined.itch.io/last-harvest) — Ankara Game Jam 2025
@@ -32,7 +40,7 @@
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler & Araçlar
+## 🛠️ Yetkinlikler & Teknolojiler
 
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-239120?&logo=csharp)
