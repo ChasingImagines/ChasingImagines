@@ -15,7 +15,7 @@
 ## 📱 Mobil Projeler
 
 - 🚜 [**Supply Chain Farming Tycoon**](https://play.google.com/store/apps/details?id=com.refinefeel.supply_chain_farming_tycoon) — **Google Play (Arcade Idle / Tycoon)**  
-  *Dijital Oyun Geliştirme Projesi I dersi kapsamında 2 kişilik ekiple geliştirilip yayınlanan mobil oyun. Batching lojistik altyapısı, DPS vs HP hasat etkileşimleri ve dinamik darboğaz (bottleneck) döngüleri içerir.*
+  *Dijital Oyun Geliştirme Projesi I dersi kapsamında 2 kişilik ekiple geliştirilip yayınlanan mobil oyun.*
 
 ---
 
